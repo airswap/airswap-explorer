@@ -1,0 +1,6 @@
+src/registerServiceWorker.js
+src/styles/bootstrap
+**/*.story.js
+src/locales/**
+react-app-env.d.ts
+node_modules/

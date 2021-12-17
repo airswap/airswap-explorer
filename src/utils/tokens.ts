@@ -11,7 +11,7 @@ export function findTokens(searchString: string, tokens: TokenMetadata[]) {
   // Search name and symbol
   return tokens.filter(
     token =>
-      token.symbol.toLowerCase().indexOf(searchString.toLowerCase()) !== -1 ||
-      token.name.toLowerCase().indexOf(searchString.toLowerCase()) !== -1,
+      (token.symbol && token.symbol.toLowerCase().indexOf(searchString.toLowerCase()) !== -1) ||
+      (token.name && token.name.toLowerCase().indexOf(searchString.toLowerCase()) !== -1),
   );
 }

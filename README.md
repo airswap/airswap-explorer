@@ -1,6 +1,6 @@
 ![explorer UI](./src/static/explorer-UI.png)
 
-## AirSwap Explorer UI
+## AirSwap Explorer
 
 [![Discord](https://img.shields.io/discord/590643190281928738.svg)](https://chat.airswap.io)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
@@ -10,11 +10,9 @@
 
 ## Resources
 
-Docs → [https://docs.airswap.io/](https://docs.airswap.io/)
-
 Website → [https://www.airswap.io/](https://www.airswap.io/)
 
-Whitepaper → [https://airswap.io/whitepaper.htm](https://airswap.io/whitepaper.htm)
+About → [https://about.airswap.io/](https://about.airswap.io/)
 
 Twitter → [https://twitter.com/airswap?lang=en](https://twitter.com/airswap)
 

@@ -49,7 +49,7 @@
     "@types/styled-components": "^4.1.16",
     "@typescript-eslint/eslint-plugin": "^1.9.0",
     "@typescript-eslint/parser": "^1.9.0",
-    "airswap.js": "0.2.10",
+    "airswap.js": "0.2.21",
     "auth0-js": "^9.8.1",
     "babel-loader": "8.0.4",
     "babel-plugin-react-intl-auto": "^1.7.0",
@@ -102,6 +102,6 @@
     "not op_mini all"
   ],
   "engines": {
-    "node": ">=10.10.0"
+    "node": ">=10.18.1"
   }
 }
